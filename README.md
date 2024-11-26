@@ -28,7 +28,7 @@ Avant d'exécuter le script, assurez-vous d'avoir installé les éléments suiva
 
    ```bash
    git clone https://github.com/focus-on1/Bypass-Captcha-Text-based.git
-   cd ton-repository
+   cd Bypass-Captcha-Text-based
    ```
 
 2. Installez les dépendances Python nécessaires :
