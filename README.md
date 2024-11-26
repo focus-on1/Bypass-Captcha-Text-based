@@ -27,7 +27,7 @@ Avant d'exécuter le script, assurez-vous d'avoir installé les éléments suiva
 1. Clonez le projet depuis GitHub :
 
    ```bash
-   git clone https://github.com/ton-utilisateur/ton-repository.git
+   git clone https://github.com/focus-on1/Bypass-Captcha-Text-based.git
    cd ton-repository
    ```
 
