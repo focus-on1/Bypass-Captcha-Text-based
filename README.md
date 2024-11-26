@@ -1,6 +1,6 @@
 
 
-#  Focus Script - CAPTCHA Bypass Automation
+#  Focus Script - CAPTCHA Bypass Zefoy
 
 ## Description
 
@@ -72,3 +72,4 @@ Avant d'exécuter le script, assurez-vous d'avoir installé les éléments suiva
 
 - Ce script est à des fins éducatives uniquement. L'utilisation de telles méthodes peut violer les termes et conditions de certains sites web.
 - **Amélioration en cours** : Une fonctionnalité est en développement pour permettre de contourner les protections Cloudflare, garantissant ainsi un meilleur fonctionnement du script.
+  
