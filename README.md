@@ -1,6 +1,6 @@
 
 
-# Cyber Focus Script - CAPTCHA Bypass Automation
+#  Focus Script - CAPTCHA Bypass Automation
 
 ## Description
 
